@@ -1,9 +1,13 @@
 # istio-installer
 
 SWS and Istio install script on OpenShift
+
   Description: This script
+
   *
+
   Usage:
+
   ./prep_istio.sh
   variable USR running on user's home directory, by default 'hudson' will be taken
   variable REMOVE_ISTIO when set 'true' it will remove Istio from OC
